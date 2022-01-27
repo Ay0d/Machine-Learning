@@ -5,6 +5,6 @@ The notebooks I uesed have been written in Python using Kaggle - https://www.kag
 
 You can find me on Kaggle here - https://www.kaggle.com/mickaelnarboni
 
-And on Linkeidn here - https://www.linkedin.com/in/mickael-narboni/
+And on Linkedin here - https://www.linkedin.com/in/mickael-narboni/
 
 I'd love to here your feedback to improve and hear from you 
